@@ -43,7 +43,7 @@
                 "imageurl": "https://i.imgur.com/eWrk8PK.jpeg",
                 "content": [
                     {
-                        "title": "<TextStyle.Violet>Players</>",
+                        "title": "<RichColor Color=\".45,0,1,2\">Players</>",
                         "text": "{playerlist}"
                     },
                     {
