@@ -17,11 +17,11 @@
         "tabs": [
             {
                 "layout": 1,
-                "buttontext": "<RichColor Color=\".44,0,1,2\">Welcome2</>",
+                "buttontext": "<RichColor Color=\".45,0,1,2\">Welcome</>",
                 "imageurl": "https://i.imgur.com/eWrk8PK.jpeg",
                 "content": [
                     {
-                        "title": "<TextStyle.Violet>Welcome to World Wide Stoners!</>",
+                        "title": "<RichColor Color=\".45,0,1,2\">Welcome to World Wide Stoners!</>",
                         "text": "<TextStyle.Green>Welcome! Im wiseachre but you can call me wise.</>\n\n<TextStyle.Green>Ive been running high rates modded servers on and off for about 10 years.</>\n\n<TextStyle.Green>The goal has always been to make a fun and fair server that i would like to play on.</>\n\n<TextStyle.Green>Please keep in mind that the server is still new and even thought ive done testing im sure there will be plenty of kinks for me to work out.</>\n\n<TextStyle.Green>You should join the discord on the bottom left so you can keep up with the server and let me know if you run into any issues!</>\n\n<TextStyle.Green>Also make sure you</> <TextStyle.Red>READ THE RULES!!!</>"
                     }
                 ]
@@ -39,7 +39,7 @@
             },
             {
                 "layout": 2,
-                "buttontext": "<TextStyle.Violet>Players</>", 
+                "buttontext": "<RichColor Color=\".45,0,1,2\">Players</>", 
                 "imageurl": "https://i.imgur.com/eWrk8PK.jpeg",
                 "content": [
                     {
