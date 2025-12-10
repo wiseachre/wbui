@@ -17,7 +17,7 @@
         "tabs": [
             {
                 "layout": 1,
-                "buttontext": "<RichColor Color=\".4,0,2.2,2.5\">Welcome1</>",
+                "buttontext": "<RichColor Color=\".3,0,2.2,3\">Welcome</>",
                 "imageurl": "https://i.imgur.com/eWrk8PK.jpeg",
                 "content": [
                     {
