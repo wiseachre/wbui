@@ -17,7 +17,7 @@
         "tabs": [
             {
                 "layout": 1,
-                "buttontext": "<RichColor Color=\".4,0,2,.5\">Welcome1</>",
+                "buttontext": "<RichColor Color=\".4,0,2,2\">Welcome</>",
                 "imageurl": "https://i.imgur.com/eWrk8PK.jpeg",
                 "content": [
                     {
@@ -44,7 +44,7 @@
                 "content": [
                     {
                         "title": "<TextStyle.Violet>Players</>",
-                        "text": "{playerlist}"
+                        "text": "<RichColor Color=\"1,0,1,1\">{playerlist}</>"
                     },
                     {
                         "title": "",
@@ -62,4 +62,3 @@
         "version": 2
     }
 }
-
