@@ -17,7 +17,7 @@
         "tabs": [
             {
                 "layout": 1,
-                "buttontext": "<TextStyle.Violet>Welcome</>",
+                "buttontext": "<RichColor Color=\"1,0,1,1\">Welcome</>",
                 "imageurl": "https://i.imgur.com/eWrk8PK.jpeg",
                 "content": [
                     {
@@ -39,12 +39,12 @@
             },
             {
                 "layout": 1,
-                "buttontext": "<TextStyle.Violet>Not Sure</>",
+                "buttontext": "<TextStyle.Violet>Players</>",
                 "imageurl": "https://i.imgur.com/eWrk8PK.jpeg",
                 "content": [
                     {
-                        "title": "Left title",
-                        "text": "This text goes into the left box"
+                        "title": "Players",
+                        "text": "{playerlist}"
                     }
                 ]
             }
