@@ -17,7 +17,7 @@
         "tabs": [
             {
                 "layout": 1,
-                "buttontext": "<RichColor Color=\".42,0,3,3\">Welcome2</>",
+                "buttontext": "<RichColor Color=\".35,0,3,3\">Welcome</>",
                 "imageurl": "https://i.imgur.com/eWrk8PK.jpeg",
                 "content": [
                     {
@@ -55,7 +55,7 @@
         ],
         "links": [
             {
-                "text": "Join the Discord",
+                "text": "<TextStyle.Green>Join the Discord</>",
                 "url": "https://discord.gg/jqCSF5tpr5"
             }
         ],
