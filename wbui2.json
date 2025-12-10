@@ -9,7 +9,7 @@
             "iconurl": "https://i.imgur.com/obkrWPz.png",
             "disableicontext": false,
             "iconposition": 0,
-            "icontextcolor": 6,
+            "icontextcolor": 3,
             "openonstart": true,
             "openonstartonlynewplayers": true,
             "updateinterval": 24
@@ -17,7 +17,7 @@
         "tabs": [
             {
                 "layout": 1,
-                "buttontext": "<RichColor Color=\".25,0,2,1\">Welcome</>",
+                "buttontext": "<RichColor Color=\".42,0,2,1.5\">Welcome</>",
                 "imageurl": "https://i.imgur.com/eWrk8PK.jpeg",
                 "content": [
                     {
